@@ -1,0 +1,11 @@
+.cart-calc {
+  text-align: start;
+  margin-left: 20px;
+}
+.cart-details {
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  border-radius: 8px;
+  position: fixed;
+  width: 100%;
+}

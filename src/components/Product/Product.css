@@ -1,0 +1,25 @@
+.product-container {
+  display: flex;
+  padding: 8px;
+  border-bottom: 1px solid lightblue;
+  margin: 0px 8px 0px 8px;
+}
+.product-img {
+  margin-right: 40px;
+}
+.product-details {
+  text-align: start;
+}
+.product-details h3 {
+  color: blue;
+}
+.product-details button {
+  background-color: #f0c14b;
+  border: 1px solid gray;
+  font: 25px;
+  padding: 5px;
+  width: 120px;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+}
